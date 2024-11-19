@@ -72,7 +72,7 @@ String (eines von):
     - www/skip.png
   
 Wenn type_answer: `text`, dann "Frage überspringen"
-Wenn type_answer: `image`, dann "www/skip.png
+Wenn type_answer: `image`, dann "www/skip.png"
 --->
 
 # answer_correct
